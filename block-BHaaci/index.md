@@ -23,7 +23,7 @@
 <input type="text" id="name" placeholder="Last Name">
 
 
-<input type="email" id="name" placeholder="Email Address"         >
+<input type="email" id="name" placeholder="Email Address" >
 
 
 <input type="password" id="name" placeholder="Password"  >
@@ -211,7 +211,6 @@ margin-left: 800px;
 margin-top:30px;
 text-align: center;
 }
-  
   
   
   
